@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![luster1031's GitHub stats](https://github-readme-stats.vercel.app/api?username=luster1031&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luster1031&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luster1031&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
