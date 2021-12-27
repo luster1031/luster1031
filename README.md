@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/C++-#A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <a><img src="https://img.shields.io/badge/Tech%20Blog-#00599C?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-#A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Tech%20Blog-#00599C?style=flat-square&logo=Vimeo&logoColor=white"/>&nbsp
 </p>
 
 <!--
