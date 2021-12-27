@@ -1,6 +1,5 @@
-
 <div align="center">
-  <h3>Hi there❤ <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
+  <h3>Hi there❤ I'm Han Na! <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
 </div>
 
 <!--
