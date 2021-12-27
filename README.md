@@ -1,7 +1,10 @@
-### Hi there 👋❤
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C%2B%&logoColor=white"/>
 
-
+<div align="center">
+  <h3>Hi there❤ <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
+  <div>
+    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeygee%2Fhit-counter"/></a>
+  </div>
+</div>
 
 <!--
 **luster1031/luster1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
