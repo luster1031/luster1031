@@ -2,6 +2,12 @@
   <h3>Hi there❤ I'm Han Na! <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
 </div>
 
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<p align="center">
+  <a><img src="https://img.shields.io/badge/C++-#A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/Tech%20Blog-#00599C?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+</p>
+
 <!--
 **luster1031/luster1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
