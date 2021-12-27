@@ -1,4 +1,6 @@
 ### Hi there 👋❤
+https://img.shields.io/static/v1?label=<LABEL>&message=<C/C++>&color=<red>
+
 
 <!--
 **luster1031/luster1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
