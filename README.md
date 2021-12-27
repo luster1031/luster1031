@@ -1,9 +1,6 @@
 
 <div align="center">
   <h3>Hi there❤ <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
-  <div>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23189838&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  </div>
 </div>
 
 <!--
